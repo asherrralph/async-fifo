@@ -1,0 +1,9 @@
+sim/waves/*.vcd
+sim/waves/*.fst
+*.log
+*.jou
+work/
+xsim.dir/
+*.wdb
+.vscode/
+__pycache__/
